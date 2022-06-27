@@ -3,7 +3,7 @@ import streamlit as st
 import pandas as pd
 
 # Setting Page Title & Favicon
-st.set_page_config(page_title='Bottling Run Price Calculator')
+st.set_page_config(page_title='Bottling Run Price Calculator', page_icon='💶')
 
 # Setting Cost of Run baseline
 cost_of_run = 0
